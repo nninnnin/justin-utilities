@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "./dist",
+    "strict": false
+  },
+  "include": ["**/*"],
+  "exclude": ["./dist"]
+}
